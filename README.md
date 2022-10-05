@@ -2,7 +2,7 @@
 Hi, 
 I'm an engineering student at Poznan University of Technology. Currently doing my master degree in Robotics (Autonomous Robots).
 Interested in music, art and motorsport engineering. In free time enormous bookworm.
-Currently learning about GAN Networks and developing computer vision skills.
+Still developing computer vision skills and learning about GANs.
 
 
 ## 🌐 Socials:
